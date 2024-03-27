@@ -1,2 +1,2 @@
-# javascrip_teht-v-t
+# Javascrip tehtävät
 Viisi tehtävää elsasta
